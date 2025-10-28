@@ -1,6 +1,8 @@
 # Bulk-Update-security
 Leverage this script to update security permissions for configuration and Flexible asset
 
+**If you already have groups assigned, please make sure to add the existing group name in the CSV groups column or else the existing security permission will be overridden**
+
 # API Key
 
 You will need an API key and a CSV file with the template below to be able to run the script without any errors. You can grab the API by navigating to IT Glue > Admin > Settings > API Key.
@@ -32,5 +34,3 @@ https://api.eu.itglue.com
 
 Partners with an account in the Australia data center will use:
 https://api.au.itglue.com
-
-**If you already have groups assigned, please make sure to add the existing group name in the CSV groups column or else the existing security permission will be overridden**
