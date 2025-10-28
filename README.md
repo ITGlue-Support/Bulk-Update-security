@@ -32,3 +32,5 @@ https://api.eu.itglue.com
 
 Partners with an account in the Australia data center will use:
 https://api.au.itglue.com
+
+**If you already have groups assigned, please make sure to add the existing group name in the CSV groups column or else the existing security permission will be overridden**
